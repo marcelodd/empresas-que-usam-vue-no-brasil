@@ -33,6 +33,7 @@ yarn run build
 
 ## A
 
+
 [Abacomm](http://www.abacomm.com.br)  
 Vuex, Node, Laravel, AWS    
 _Rio de Janeiro/RJ_    
@@ -55,6 +56,10 @@ _Gurupi/TO_
 
 [Alcance Digital](https://alcance.digital)
 Nuxt, Supabase, Ruby on Rails, React Native
+_São Paulo/SP_
+
+[ALIZI](https://www.alizi.com.br)  
+Vuex, Node, Google Cloud    
 _São Paulo/SP_
 
 [Angular Ecommerce](http://www.angular-ecommerce.com.br)  
